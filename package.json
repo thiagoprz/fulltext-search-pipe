@@ -1,0 +1,38 @@
+{
+  "name": "@thiagoprz/fulltext-search-pipe",
+  "description": "Angular pipe with full text search functionality",
+  "version": "0.0.6",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thiagoprz/fulltext-search-pipe.git"
+  },
+  "keywords": [
+    "pipe",
+    "angular",
+    "fulltext",
+    "full",
+    "text",
+    "search",
+    "query",
+    "strings",
+    "like",
+    "like",
+    "search"
+  ],
+  "author": "Thiago Przyczynski <przyczynski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagoprz/fulltext-search-pipe/issues"
+  },
+  "homepage": "https://github.com/thiagoprz/fulltext-search-pipe#readme",
+  "peerDependencies": {
+    "@angular/common": "^11.2.4",
+    "@angular/core": "^11.2.4"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
